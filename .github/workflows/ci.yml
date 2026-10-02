@@ -25,4 +25,4 @@ jobs:
         run: node test.mjs
 
       - name: Build Next.js application
-        run: npm run build:next
+        run: npm run build
