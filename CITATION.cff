@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use Anatomy 3D in your educational, medical, or research projects, please cite it as below."
+title: "Anatomy 3D: Real-Time Interactive Human Anatomy Explorer with WebGL and TSL Shaders"
+type: software
+authors:
+  - family-names: "Formuli"
+    given-names: "Abdullah"
+    email: "authrainmedia@gmail.com"
+    website: "https://github.com/authrain-cloud-abdullahformuli"
+url: "https://github.com/authrain-cloud-abdullahformuli/anatomy"
+repository-code: "https://github.com/authrain-cloud-abdullahformuli/anatomy"
+license: MIT
+keywords:
+  - anatomy
+  - 3d
+  - threejs
+  - webgl
+  - medical-visualization
+  - science
+  - nextjs
+  - education
